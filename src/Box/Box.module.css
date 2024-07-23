@@ -1,0 +1,14 @@
+.box {
+  height: 5rem;
+  width: 5rem;
+  border: solid 2px black;
+  background-color: white;
+}
+
+.box_green {
+  background-color: green;
+}
+
+.box_notRender {
+  display: none;
+}

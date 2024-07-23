@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list_row {
+  display: flex;
+  margin: 4px;
+}
