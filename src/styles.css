@@ -6,4 +6,5 @@
 .list_row {
   display: flex;
   margin: 4px;
+  list-style: none;
 }
